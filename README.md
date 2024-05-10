@@ -11,9 +11,11 @@
 
 ## Reproducibility report
 
-You can download it [here](https://github.com/BenjaminPlanterose/aps-lm/blob/main/reproducibility_report_v2.zip). It consists of an Rmarkdown file (*reproducibility_report.Rmd*). Instructions are provided in the file *README.html*.
+A reproducibility report that includes R-scripts, raw simulated data and aps-lm models for epigenetic aging prediction with example datasets are available [here](https://github.com/BenjaminPlanterose/aps-lm/blob/main/reproducibility_report_v2.zip). 
 
-For any questions/concerns arising from this Github project, either [report an issue](https://github.com/BenjaminPlanterose/aps-lm/issues) or simply contact b.planterosejimenez at gmail.com
+The reproducibility report contains several folders and files, the structure of which and instructions on how to run it are included in *README.html*. The main file of the report consists of the Rmarkdown file *reproducibility_report.Rmd*.
+
+For any questions/concerns, either [report an issue](https://github.com/BenjaminPlanterose/aps-lm/issues) or simply contact b.planterosejimenez at gmail.com
 
 ### References and Supporting Information
 B. Planterose Jiménez *et al* (**2024**). Combinatorial linear models: an imputation-free method for linear regression prediction on datasets with missing values. *Biometrical journal*
