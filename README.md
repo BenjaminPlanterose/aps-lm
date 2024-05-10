@@ -11,7 +11,7 @@
 
 ## Reproducibility report
 
-You can download it [here](https://github.com/BenjaminPlanterose/aps-lm/reproducibility_report_v2.zip). It consists of an Rmarkdown file reproducibility_report.Rmd. Instructions are provided as README.html.
+You can download it [here](https://github.com/BenjaminPlanterose/aps-lm/blob/main/reproducibility_report_v2.zip). It consists of an Rmarkdown file (*reproducibility_report.Rmd*). Instructions are provided in the file *README.html*.
 
 For any questions/concerns arising from this Github project, either [report an issue](https://github.com/BenjaminPlanterose/aps-lm/issues) or simply contact b.planterosejimenez at gmail.com
 
